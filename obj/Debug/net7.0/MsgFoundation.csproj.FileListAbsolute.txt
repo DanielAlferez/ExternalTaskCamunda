@@ -1,0 +1,141 @@
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\MsgFoundation.csproj.AssemblyReference.cache
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\MsgFoundation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\RefitStubs.g.cs
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\MsgFoundation.AssemblyInfoInputs.cache
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\MsgFoundation.AssemblyInfo.cs
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\MsgFoundation.csproj.CoreCompileInputs.cache
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\MsgFoundation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\MsgFoundation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\appsettings.json
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\MsgFoundation.exe
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\MsgFoundation.deps.json
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\MsgFoundation.runtimeconfig.json
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\MsgFoundation.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\MsgFoundation.pdb
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Camunda.Api.Client.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Refit.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\staticwebassets\msbuild.MsgFoundation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\staticwebassets\msbuild.build.MsgFoundation.props
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MsgFoundation.props
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MsgFoundation.props
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\scopedcss\bundle\MsgFoundation.styles.css
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\MsgFoundation.csproj.CopyComplete
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\MsgFoundation.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\refint\MsgFoundation.dll
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\MsgFoundation.pdb
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\MsgFoundation.genruntimeconfig.cache
+C:\Users\Roger Roldan\Desktop\Programación\C#\MsgFoundation\obj\Debug\net7.0\ref\MsgFoundation.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\appsettings.json
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\MsgFoundation.exe
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\MsgFoundation.deps.json
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\MsgFoundation.runtimeconfig.json
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\MsgFoundation.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\MsgFoundation.pdb
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Camunda.Api.Client.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Humanizer.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Npgsql.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Refit.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\MsgFoundation.csproj.AssemblyReference.cache
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\MsgFoundation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\RefitStubs.g.cs
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\MsgFoundation.AssemblyInfoInputs.cache
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\MsgFoundation.AssemblyInfo.cs
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\MsgFoundation.csproj.CoreCompileInputs.cache
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\MsgFoundation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\MsgFoundation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\staticwebassets\msbuild.MsgFoundation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\staticwebassets\msbuild.build.MsgFoundation.props
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MsgFoundation.props
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MsgFoundation.props
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\scopedcss\bundle\MsgFoundation.styles.css
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\MsgFoundation.csproj.CopyComplete
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\MsgFoundation.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\refint\MsgFoundation.dll
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\MsgFoundation.pdb
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\MsgFoundation.genruntimeconfig.cache
+C:\Users\danal\Source\Repos\MsgFoundation-Camunda-with-.Net-\obj\Debug\net7.0\ref\MsgFoundation.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\appsettings.json
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\MsgFoundation.exe
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\MsgFoundation.deps.json
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\MsgFoundation.runtimeconfig.json
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\MsgFoundation.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\MsgFoundation.pdb
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Camunda.Api.Client.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Humanizer.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Npgsql.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Refit.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\MsgFoundation.csproj.AssemblyReference.cache
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\MsgFoundation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\RefitStubs.g.cs
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\MsgFoundation.AssemblyInfoInputs.cache
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\MsgFoundation.AssemblyInfo.cs
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\MsgFoundation.csproj.CoreCompileInputs.cache
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\MsgFoundation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\MsgFoundation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\staticwebassets\msbuild.MsgFoundation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\staticwebassets\msbuild.build.MsgFoundation.props
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MsgFoundation.props
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MsgFoundation.props
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\scopedcss\bundle\MsgFoundation.styles.css
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\MsgFoundation.csproj.CopyComplete
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\MsgFoundation.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\refint\MsgFoundation.dll
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\MsgFoundation.pdb
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\MsgFoundation.genruntimeconfig.cache
+C:\Users\danal\source\repos\ExternalTaskCamunda\obj\Debug\net7.0\ref\MsgFoundation.dll
