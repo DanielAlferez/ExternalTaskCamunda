@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="https://www.omg.org/spec/DMN/20191111/MODEL/" xmlns:dmndi="https://www.omg.org/spec/DMN/20191111/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:modeler="http://camunda.org/schema/modeler/1.0" id="Definitions_0jwocy1" name="DRD" namespace="http://camunda.org/schema/1.0/dmn" exporter="Camunda Modeler" exporterVersion="5.11.0" modeler:executionPlatform="Camunda Platform" modeler:executionPlatformVersion="7.19.0">
+  <decision id="precio_lente" name="Decision 1">
+    <decisionTable id="DecisionTable_1bcx1y3">
+      <input id="Input_1" label="Presupuesto">
+        <inputExpression id="InputExpression_1" typeRef="long">
+          <text>presupuesto_cli</text>
+        </inputExpression>
+      </input>
+      <output id="Output_1" label="Precio Lente Proveedor" name="precio_lente_pro" typeRef="long" />
+      <output id="OutputClause_18rr1db" label="Proveedor" name="proveedor" typeRef="string" />
+      <rule id="DecisionRule_10js03b">
+        <inputEntry id="UnaryTests_1r5cwrr">
+          <text>]1000000..1300000]</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1w8avs1">
+          <text>1150000</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0v1n6nc">
+          <text>"Servioptica"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0s31c15">
+        <inputEntry id="UnaryTests_1gw1e7t">
+          <text>]800000..1000000]</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1b8g7rq">
+          <text>900000</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0e5ve2d">
+          <text>"Optiservices"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_14johu1">
+        <inputEntry id="UnaryTests_0sdczcw">
+          <text>]1300000..3500000]</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0e2fuyl">
+          <text>2400000</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1x6fk2v">
+          <text>"Carl Zeiss"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1g0mh19">
+        <inputEntry id="UnaryTests_0yy8sxn">
+          <text>&lt;= 350000</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1iooybm">
+          <text>175000</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0uusajn">
+          <text>"Ayf"</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0ua0tnz">
+        <inputEntry id="UnaryTests_1em1w9i">
+          <text>]350000..800000]</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_01jxvz0">
+          <text>575000</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1rvje7d">
+          <text>"Hoya"</text>
+        </outputEntry>
+      </rule>
+    </decisionTable>
+  </decision>
+  <dmndi:DMNDI>
+    <dmndi:DMNDiagram>
+      <dmndi:DMNShape dmnElementRef="precio_lente">
+        <dc:Bounds height="80" width="180" x="160" y="100" />
+      </dmndi:DMNShape>
+    </dmndi:DMNDiagram>
+  </dmndi:DMNDI>
+</definitions>

@@ -1,0 +1,165 @@
+{
+  "components": [
+    {
+      "text": "# Ingresa los Detalles de tu Montura",
+      "type": "text",
+      "layout": {
+        "row": "Row_0my4k5x",
+        "columns": null
+      },
+      "id": "Field_0gv9e0r"
+    },
+    {
+      "values": [
+        {
+          "label": "Nylon",
+          "value": "nylon"
+        },
+        {
+          "label": "Metal",
+          "value": "metal"
+        },
+        {
+          "label": "Acetato",
+          "value": "acetato"
+        },
+        {
+          "label": "TR-90",
+          "value": "tr-90"
+        }
+      ],
+      "label": "Material Montura",
+      "type": "select",
+      "layout": {
+        "row": "Row_0n4eoua",
+        "columns": null
+      },
+      "id": "Field_065omqb",
+      "key": "material_montura",
+      "validate": {
+        "required": true
+      },
+      "conditional": {
+        "hide": "=hide = 0"
+      }
+    },
+    {
+      "values": [
+        {
+          "label": "Rectangular",
+          "value": "rectangular"
+        },
+        {
+          "label": "Redonda",
+          "value": "redonda"
+        },
+        {
+          "label": "Cuadrada",
+          "value": "cuadrada"
+        },
+        {
+          "label": "Ojo de Gato",
+          "value": "ojo de gato"
+        },
+        {
+          "label": "Estilo Retro/Vintage",
+          "value": "estilo retro/vintagevalue5"
+        },
+        {
+          "label": "Deportivas",
+          "value": "deportivas"
+        }
+      ],
+      "label": "Forma Montura",
+      "type": "select",
+      "layout": {
+        "row": "Row_1mogymc",
+        "columns": null
+      },
+      "id": "Field_18r5n6j",
+      "key": "forma_montura",
+      "searchable": false,
+      "properties": {},
+      "validate": {
+        "required": true
+      },
+      "conditional": {
+        "hide": "=hide = 0"
+      }
+    },
+    {
+      "label": "Valor Montura",
+      "type": "number",
+      "layout": {
+        "row": "Row_1tqjans",
+        "columns": null
+      },
+      "id": "Field_17o948b",
+      "key": "precio_montura",
+      "disabled": true
+    },
+    {
+      "text": "### No hay unidades disponibles de esa montura",
+      "type": "text",
+      "layout": {
+        "row": "Row_0dq4eib",
+        "columns": null
+      },
+      "id": "Field_05fkuto",
+      "conditional": {
+        "hide": "=precio_montura != 0 or hide != 0"
+      }
+    },
+    {
+      "label": "Valor Total (Lentes y Montura)",
+      "type": "number",
+      "layout": {
+        "row": "Row_0rpjnrn",
+        "columns": null
+      },
+      "id": "Field_1matiqu",
+      "key": "valor_montura_lente",
+      "disabled": true
+    },
+    {
+      "label": "Confirmar Compra",
+      "type": "checkbox",
+      "layout": {
+        "row": "Row_0gwqbjo",
+        "columns": null
+      },
+      "id": "Field_0obp0gh",
+      "key": "compra_confirmada",
+      "validate": {
+        "required": false
+      },
+      "disabled": false,
+      "conditional": {
+        "hide": "=precio_montura = null"
+      }
+    },
+    {
+      "label": "Number",
+      "type": "number",
+      "layout": {
+        "row": "Row_14evk6a",
+        "columns": null
+      },
+      "id": "Field_1mwvd68",
+      "key": "hide",
+      "disabled": true,
+      "conditional": {
+        "hide": "=hide = 0"
+      }
+    }
+  ],
+  "type": "default",
+  "id": "detalles_montura",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.11.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 8
+}

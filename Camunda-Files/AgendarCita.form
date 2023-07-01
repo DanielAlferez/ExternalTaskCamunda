@@ -1,0 +1,80 @@
+{
+  "components": [
+    {
+      "text": "# Agendar Cita",
+      "type": "text",
+      "layout": {
+        "row": "Row_0knozzf",
+        "columns": null
+      },
+      "id": "Field_0ck05pf",
+      "properties": {}
+    },
+    {
+      "label": "Nombre",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_16uzbsm",
+        "columns": null
+      },
+      "id": "Field_0398xxx",
+      "key": "fullname",
+      "disabled": true,
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Cedula",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1cwxxa7",
+        "columns": null
+      },
+      "id": "Field_0kvl1xg",
+      "key": "cedula",
+      "disabled": true,
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Valor Cita medica",
+      "type": "number",
+      "layout": {
+        "row": "Row_1rdgfox",
+        "columns": null
+      },
+      "id": "Field_17byuja",
+      "key": "valor_cita",
+      "defaultValue": 50000,
+      "disabled": true
+    },
+    {
+      "subtype": "datetime",
+      "dateLabel": "Seleccionar Fecha",
+      "label": "Date time",
+      "type": "datetime",
+      "layout": {
+        "row": "Row_0yxfnz7",
+        "columns": null
+      },
+      "id": "Field_16tbzg9",
+      "key": "appointmentDate",
+      "timeLabel": "Time",
+      "timeSerializingFormat": "utc_offset",
+      "timeInterval": 60,
+      "use24h": false,
+      "disallowPassedDates": true
+    }
+  ],
+  "type": "default",
+  "id": "agendar_citas2",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.11.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 8
+}

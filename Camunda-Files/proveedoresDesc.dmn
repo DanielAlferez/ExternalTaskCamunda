@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="https://www.omg.org/spec/DMN/20191111/MODEL/" xmlns:dmndi="https://www.omg.org/spec/DMN/20191111/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:modeler="http://camunda.org/schema/modeler/1.0" id="Definitions_0k3u2es" name="DRD" namespace="http://camunda.org/schema/1.0/dmn" exporter="Camunda Modeler" exporterVersion="5.11.0" modeler:executionPlatform="Camunda Platform" modeler:executionPlatformVersion="7.19.0">
+  <decision id="proveedores_datos_desicion" name="Decision 1">
+    <decisionTable id="DecisionTable_16ngd5t">
+      <input id="Input_1" label="Enfermedad">
+        <inputExpression id="InputExpression_1" typeRef="string">
+          <text>enfermedad</text>
+        </inputExpression>
+      </input>
+      <output id="Output_1" label="Dias" name="dias" typeRef="integer" />
+      <rule id="DecisionRule_0lwafhp">
+        <inputEntry id="UnaryTests_0v1h1f5">
+          <text>"miopia"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_04s0t34">
+          <text>2</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1h9bpie">
+        <inputEntry id="UnaryTests_17wcdp7">
+          <text>"hipermetropía"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_01kat1c">
+          <text>3</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0jruqn7">
+        <inputEntry id="UnaryTests_04zdyj9">
+          <text>"miopia y astigmatismo"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_13fm9na">
+          <text>5</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_10sisdb">
+        <inputEntry id="UnaryTests_01mqr9s">
+          <text>"hipermetropia y astigmatismo"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0zfmuwb">
+          <text>6</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1je55mh">
+        <inputEntry id="UnaryTests_0ee8k35">
+          <text>"astigmatismo"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1ouyqdg">
+          <text>4</text>
+        </outputEntry>
+      </rule>
+    </decisionTable>
+  </decision>
+  <dmndi:DMNDI>
+    <dmndi:DMNDiagram>
+      <dmndi:DMNShape dmnElementRef="proveedores_datos_desicion">
+        <dc:Bounds height="80" width="180" x="160" y="100" />
+      </dmndi:DMNShape>
+    </dmndi:DMNDiagram>
+  </dmndi:DMNDI>
+</definitions>

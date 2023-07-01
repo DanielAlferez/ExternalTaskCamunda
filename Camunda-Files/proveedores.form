@@ -1,0 +1,62 @@
+{
+  "components": [
+    {
+      "text": "# Precio Lentes Proveedores",
+      "type": "text",
+      "layout": {
+        "row": "Row_1d7gdwz",
+        "columns": null
+      },
+      "id": "Field_00xzg6z"
+    },
+    {
+      "label": "Proveedor Seleccionado",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1d8pkcj",
+        "columns": null
+      },
+      "id": "Field_1wgm1h6",
+      "key": "proveedor"
+    },
+    {
+      "label": "Enfermedad Diagnosticada",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0j4fix1",
+        "columns": null
+      },
+      "id": "Field_032m0a3",
+      "key": "enfermedad"
+    },
+    {
+      "label": "Precio Lente Proveedor",
+      "type": "number",
+      "layout": {
+        "row": "Row_1kzm0e8",
+        "columns": null
+      },
+      "id": "Field_0qf9hp7",
+      "key": "precio_lente_pro"
+    },
+    {
+      "label": "Dias Entrega",
+      "type": "number",
+      "layout": {
+        "row": "Row_1fhvivc",
+        "columns": null
+      },
+      "id": "Field_1kz84al",
+      "key": "dias"
+    }
+  ],
+  "type": "default",
+  "id": "proveedores_datos",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.11.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 8
+}

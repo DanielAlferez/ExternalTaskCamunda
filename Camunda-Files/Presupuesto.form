@@ -1,0 +1,124 @@
+{
+  "components": [
+    {
+      "text": "# Registra tu Presupuesto para tus Lentes",
+      "type": "text",
+      "layout": {
+        "row": "Row_1jb86d5",
+        "columns": null
+      },
+      "id": "Field_0iwwmt5"
+    },
+    {
+      "label": "Presupuesto",
+      "type": "number",
+      "layout": {
+        "row": "Row_0byrie0",
+        "columns": null
+      },
+      "id": "Field_0fb6j4r",
+      "key": "presupuesto_cli"
+    },
+    {
+      "values": [
+        {
+          "label": "Transitions",
+          "value": "350000"
+        },
+        {
+          "label": "Antirreflejo",
+          "value": "60000"
+        },
+        {
+          "label": "Fotocromatico",
+          "value": "210000"
+        }
+      ],
+      "label": "Elije el filtro",
+      "type": "select",
+      "layout": {
+        "row": "Row_0pjkp1j",
+        "columns": null
+      },
+      "id": "Field_0xh5tiz",
+      "key": "filtro"
+    },
+    {
+      "values": [
+        {
+          "label": "Azul",
+          "value": "20000"
+        },
+        {
+          "label": "Verde",
+          "value": "5000"
+        }
+      ],
+      "label": "Añade Caracteristicas",
+      "type": "select",
+      "layout": {
+        "row": "Row_1r43zcm",
+        "columns": null
+      },
+      "id": "Field_0mpis1p",
+      "key": "filtro2",
+      "conditional": {
+        "hide": "=filtro != \"60000\""
+      },
+      "defaultValue": "0"
+    },
+    {
+      "label": "Precio Filtro",
+      "type": "number",
+      "layout": {
+        "row": "Row_1asntyo",
+        "columns": null
+      },
+      "id": "Field_06sf55w",
+      "key": "filtros",
+      "disabled": true
+    },
+    {
+      "label": "Precio Lente por Proveedor",
+      "type": "number",
+      "layout": {
+        "row": "Row_1jww5rb",
+        "columns": null
+      },
+      "id": "Field_1qcqj8n",
+      "key": "precio_lente_pro",
+      "disabled": true
+    },
+    {
+      "label": "Precio Total Lente",
+      "type": "number",
+      "layout": {
+        "row": "Row_0lc0tc8",
+        "columns": null
+      },
+      "id": "Field_1ql41ii",
+      "key": "precio_total_lente",
+      "disabled": true
+    },
+    {
+      "label": "Proveedor Seleccionado",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_01exziq",
+        "columns": null
+      },
+      "id": "Field_0a50fyf",
+      "key": "proveedor",
+      "disabled": true
+    }
+  ],
+  "type": "default",
+  "id": "presupuesto",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.11.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 8
+}

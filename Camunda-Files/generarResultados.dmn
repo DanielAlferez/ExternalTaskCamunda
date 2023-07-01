@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="https://www.omg.org/spec/DMN/20191111/MODEL/" xmlns:dmndi="https://www.omg.org/spec/DMN/20191111/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:modeler="http://camunda.org/schema/modeler/1.0" xmlns:camunda="http://camunda.org/schema/1.0/dmn" id="Resultados" name="genResultados" namespace="http://camunda.org/schema/1.0/dmn" exporter="Camunda Modeler" exporterVersion="5.11.0" modeler:executionPlatform="Camunda Platform" modeler:executionPlatformVersion="7.19.0">
+  <decision id="genResultados" name="genResultados">
+    <decisionTable id="DecisionTable_1d6d950">
+      <input id="Input_1" label="Esfera" camunda:inputVariable="esfera">
+        <inputExpression id="InputExpression_1" typeRef="double">
+          <text></text>
+        </inputExpression>
+      </input>
+      <input id="InputClause_1ofgwft" label="Cilindro" camunda:inputVariable="cilindro">
+        <inputExpression id="LiteralExpression_1ew9rmy" typeRef="double">
+          <text></text>
+        </inputExpression>
+      </input>
+      <output id="Output_1" label="Enfermedad" name="enfermedad" typeRef="string" />
+      <output id="OutputClause_0o5t4ra" label="Precio Base" name="precio_base" typeRef="long" />
+      <rule id="DecisionRule_17n7n23">
+        <description></description>
+        <inputEntry id="UnaryTests_04aa6k0">
+          <text>&lt;0</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1dr67lq">
+          <text>0</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1gtfckp">
+          <text>"miopia"</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0949ekt">
+          <text>6000</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1k5uuyp">
+        <inputEntry id="UnaryTests_12leaic">
+          <text>&gt;0</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0685xy8">
+          <text>0</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0pxcfl5">
+          <text>"hipermetropía"</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_03us5cx">
+          <text>7000</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_16mbscm">
+        <inputEntry id="UnaryTests_169noga">
+          <text>&lt;0</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_05vkyww">
+          <text>&gt;0</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1jho7hw">
+          <text>"miopia y astigmatismo"</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0yvn7w9">
+          <text>8000</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1js1jx8">
+        <inputEntry id="UnaryTests_1qclquo">
+          <text>&gt;0</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1udqcqc">
+          <text>&gt;0</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1jd1o0c">
+          <text>"hipermetropia y astigmatismo"</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0bfncst">
+          <text>10000</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0tq7oup">
+        <inputEntry id="UnaryTests_1lvq4tc">
+          <text>0</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1317vzp">
+          <text>0</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1ghd25z">
+          <text>"sano"</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_1w12b3d">
+          <text>0</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_17l37o2">
+        <inputEntry id="UnaryTests_16ze9cz">
+          <text>0</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0hj3hh1">
+          <text>&gt;0</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1twv1uu">
+          <text>"astigmatismo"</text>
+        </outputEntry>
+        <outputEntry id="LiteralExpression_0wot088">
+          <text>9000</text>
+        </outputEntry>
+      </rule>
+    </decisionTable>
+  </decision>
+  <dmndi:DMNDI>
+    <dmndi:DMNDiagram>
+      <dmndi:DMNShape dmnElementRef="genResultados">
+        <dc:Bounds height="80" width="180" x="160" y="100" />
+      </dmndi:DMNShape>
+    </dmndi:DMNDiagram>
+  </dmndi:DMNDI>
+</definitions>

@@ -1,0 +1,74 @@
+{
+  "components": [
+    {
+      "text": "# Resultados Paciente",
+      "type": "text",
+      "layout": {
+        "row": "Row_0u3n1bd",
+        "columns": null
+      },
+      "id": "Field_16106rr"
+    },
+    {
+      "label": "Esfera",
+      "type": "number",
+      "layout": {
+        "row": "Row_16ikpte",
+        "columns": null
+      },
+      "id": "Field_0os9ce2",
+      "key": "esfera",
+      "validate": {
+        "min": -20,
+        "max": 20,
+        "required": true
+      }
+    },
+    {
+      "label": "Cilindro",
+      "type": "number",
+      "layout": {
+        "row": "Row_0n1gu08",
+        "columns": null
+      },
+      "id": "Field_0ah9eky",
+      "key": "cilindro",
+      "validate": {
+        "required": true,
+        "min": 0,
+        "max": 6
+      }
+    },
+    {
+      "label": "Enfermedad",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_047jc4m",
+        "columns": null
+      },
+      "id": "Field_1z0bvmy",
+      "key": "enfermedad",
+      "disabled": true
+    },
+    {
+      "label": "Precio Base",
+      "type": "number",
+      "layout": {
+        "row": "Row_1c15xqy",
+        "columns": null
+      },
+      "id": "Field_03ybicr",
+      "key": "precio_base",
+      "disabled": true
+    }
+  ],
+  "type": "default",
+  "id": "resultados2",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.11.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 8
+}

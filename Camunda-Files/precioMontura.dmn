@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="https://www.omg.org/spec/DMN/20191111/MODEL/" xmlns:dmndi="https://www.omg.org/spec/DMN/20191111/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:modeler="http://camunda.org/schema/modeler/1.0" id="Definitions_0al31vw" name="DRD" namespace="http://camunda.org/schema/1.0/dmn" exporter="Camunda Modeler" exporterVersion="5.11.0" modeler:executionPlatform="Camunda Platform" modeler:executionPlatformVersion="7.19.0">
+  <decision id="precio_montura" name="Decision 1">
+    <decisionTable id="DecisionTable_14tkylk" hitPolicy="FIRST">
+      <input id="Input_1" label="Material">
+        <inputExpression id="InputExpression_1" typeRef="string">
+          <text>material_montura</text>
+        </inputExpression>
+      </input>
+      <input id="InputClause_0aky0ua" label="Forma">
+        <inputExpression id="LiteralExpression_1qytage" typeRef="string">
+          <text>forma_montura</text>
+        </inputExpression>
+      </input>
+      <output id="Output_1" label="Precio" name="precio_montura" typeRef="long" />
+      <rule id="DecisionRule_1j2cvva">
+        <inputEntry id="UnaryTests_1x9mlvy">
+          <text>"acetato"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1vli0td">
+          <text>"rectangular", "redonda", "cuadrada"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_11gm3qc">
+          <text>300000</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_07ssu9u">
+        <inputEntry id="UnaryTests_18xpxw5">
+          <text>"acetato"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0g5y9ly">
+          <text>"ojo de gato"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_184x293">
+          <text>400000</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_1f2qkds">
+        <inputEntry id="UnaryTests_1jc7lfc">
+          <text>"acetato"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_12c9o7i">
+          <text>"estilo retro/vintage"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_1hwco6l">
+          <text>350000</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_01t18v2">
+        <inputEntry id="UnaryTests_0unrcba">
+          <text>"metal"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1ajqcod">
+          <text>"ojo de gato"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0mu0j4i">
+          <text>500000</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0gfx9ac">
+        <inputEntry id="UnaryTests_0sxyqnd">
+          <text>"metal"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0kdr8eu">
+          <text>"estilo retro/vintage"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0h1xbrm">
+          <text>550000</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0n0d8h4">
+        <inputEntry id="UnaryTests_12li54u">
+          <text>"nylon"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_17il3rj">
+          <text>"redonda", "cuadrada"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0ahajmf">
+          <text>250000</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0tabzze">
+        <inputEntry id="UnaryTests_11bshka">
+          <text>"nylon"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0vta3wd">
+          <text>"ojo de gato", "deportivas"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_07l3crz">
+          <text>350000</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_15o19lq">
+        <inputEntry id="UnaryTests_1s6bscv">
+          <text>"tr-90"</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_0p7u5cw">
+          <text>"rectangular", "deportivas"</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_14jqz1g">
+          <text>400000</text>
+        </outputEntry>
+      </rule>
+      <rule id="DecisionRule_0t3umz0">
+        <inputEntry id="UnaryTests_0nhuwkr">
+          <text>not("")</text>
+        </inputEntry>
+        <inputEntry id="UnaryTests_1n6yp2r">
+          <text>not("")</text>
+        </inputEntry>
+        <outputEntry id="LiteralExpression_0dlbjjt">
+          <text>0</text>
+        </outputEntry>
+      </rule>
+    </decisionTable>
+  </decision>
+  <dmndi:DMNDI>
+    <dmndi:DMNDiagram>
+      <dmndi:DMNShape dmnElementRef="precio_montura">
+        <dc:Bounds height="80" width="180" x="160" y="100" />
+      </dmndi:DMNShape>
+    </dmndi:DMNDiagram>
+  </dmndi:DMNDI>
+</definitions>
